@@ -1,1 +1,1 @@
-# CV is written using Bootstrap libriary
+# The CV is written using Bootstrap libriary
