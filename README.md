@@ -1,1 +1,1 @@
-# The CV is written using Bootstrap libriry
+# The CV is written using the Bootstrap library.
